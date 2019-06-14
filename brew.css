@@ -19,6 +19,10 @@ a:visited{
 	color:#38fafc;
 }
 
+h1, h2, h3 {
+	color: #f41cf5;
+}
+
 #mainLogo{
 	display: block;
   margin-left: auto;

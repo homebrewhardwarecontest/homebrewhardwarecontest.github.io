@@ -1,0 +1,39 @@
+Name/Handle:
+<tell us your kick-ass handle, or whatever you want us to call you>
+
+Email address:
+<your email address, and any other contact info you want to give us>
+
+Name of hardware:
+<Did you give your kit a sweet name?>
+
+Description/Summary:
+<Give us an overview.  Tells us what your Hardware does, how it does it, what it's used for.>
+
+General Intent:
+<Was it made to do good stuff, bad stuff, or both?  We love all three ;) >
+
+What have you pwned so far:
+<Seriously.  Have you used it to break, crack, exploit, pwn or otherwise do some cool shit?  Tell us about it here.  Got proof?  Even better.>
+
+Construction methods:
+<Tell us what it took to make it.  Is it 3d printed, is it CNCd, did you wire wrap it.  Is it chip bending, did you fab your own silicon in your neighbors basement?  What was harder about making this, than all your competitors?>
+
+What did you have to learn or teach yourself:
+<What techniques, languages, processes etc. did you have to learn to make it?  Is it homebrew-inception, did you also have to make tools to make your hardware? etc.>
+
+Usage:
+<Walk us through how to use it.  ELI5.  pls.>
+
+Specs:
+<For the numbers geeks.  Any technical specs you want to give us?  Bonus points for 42's and 3.14's>
+
+Links to related media:
+<Blogs, Videos of your hardware in action, Images, Websites, Social Media, Forums etc.
+You have to submit *something* here, so we know it exists...>
+
+Will you bet at DC27:
+
+Are you willing to get on stage and talk about the thing you made:
+
+Is there anything else you need or want to tell us:
