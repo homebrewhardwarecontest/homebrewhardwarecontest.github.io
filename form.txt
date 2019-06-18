@@ -37,3 +37,6 @@ Will you bet at DC27:
 Are you willing to get on stage and talk about the thing you made:
 
 Is there anything else you need or want to tell us:
+
+Do we need to keep your entry 'secret':
+<We will host all entry forms on our public github, with names and email addresses scrubbed. We may also share links you provide, or pictures, via twitter, as we get closer to DEF CON. If you don't want us to, tell us here>
