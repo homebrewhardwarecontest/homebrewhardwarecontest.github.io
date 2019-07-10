@@ -7,6 +7,9 @@ Email address:
 Name of hardware:
 <Did you give your kit a sweet name?>
 
+Category you are entering:
+<Hardcore, or Just for Fun>
+
 Description/Summary:
 <Give us an overview.  Tells us what your Hardware does, how it does it, what it's used for.>
 
