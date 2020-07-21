@@ -1,7 +1,7 @@
 body {
-	background-color: #bcf225;
+	background-color: #000000;
 	font-family: 'Orbitron', sans-serif;
-	color: #ab28bb;
+	color: #6519d8;
 	max-width: 900px;
 	width: 95%;
 	padding: 20px;
@@ -16,11 +16,11 @@ footer {
  }
 
 a:visited{
-	color:#9281b9;
+	color:#38fafc;
 }
 
 h1, h2, h3 {
-	color: #5fd9bd
+	color: #f41cf5;
 }
 
 #mainLogo{
