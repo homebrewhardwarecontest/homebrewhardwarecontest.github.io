@@ -1,7 +1,7 @@
 body {
-	background-color: #5d5e5c;
+	background-color: #5fd9bd;
 	font-family: 'Orbitron', sans-serif;
-	color: #ab28bb;
+	color: #000000;
 	max-width: 900px;
 	width: 95%;
 	padding: 20px;
@@ -23,7 +23,7 @@ a:visited{
 }
 
 h1, h2, h3 {
-	color: #5fd9bd
+	color: #ad28bb;
 }
 
 #mainLogo{
