@@ -1,5 +1,5 @@
 body {
-	background-color: #bcf225;
+	background-color: #bbbdb7;
 	font-family: 'Orbitron', sans-serif;
 	color: #ab28bb;
 	max-width: 900px;
@@ -15,6 +15,9 @@ footer {
 
  }
 
+ a:link {
+	color: #bcf225;
+  }
 a:visited{
 	color:#9281b9;
 }
